@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "python.defaultInterpreterPath": "/Users/mithunkm/Desktop/First ml model/.venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/mithunkm/Desktop/First ml model/.venv/lib/python3.14/site-packages"
+    ]
+}
